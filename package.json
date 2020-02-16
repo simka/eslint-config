@@ -1,0 +1,27 @@
+{
+  "name": "@maciejsimka/eslint-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "2.x.x",
+    "@typescript-eslint/parser": "2.x.x",
+    "eslint": "6.x.x",
+    "eslint-config-prettier": "6.x.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simka/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "maciej simka <mcj.simka@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simka/eslint-config/issues"
+  },
+  "homepage": "https://github.com/simka/eslint-config#readme"
+}
