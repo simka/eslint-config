@@ -103,7 +103,7 @@ module.exports = {
 
     "react-hooks/rules-of-hooks": "error",
 
-    "unicorn/better-regex": "error",
+    "unicorn/regex-shorthand": "error",
     "unicorn/catch-error-name": "error",
     "unicorn/consistent-function-scoping": "error",
     "unicorn/custom-error-definition": "off",
