@@ -148,7 +148,7 @@ module.exports = {
     "unicorn/prefer-text-content": "error",
     "unicorn/prefer-trim-start-end": "error",
     "unicorn/prefer-type-error": "error",
-    "unicorn/prevent-abbreviations": "error",
+    "unicorn/prevent-abbreviations": "warn",
     "unicorn/throw-new-error": "error"
   }
 };
